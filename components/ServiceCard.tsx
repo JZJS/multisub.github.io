@@ -8,7 +8,7 @@ const allSigners = [
   "b@email.com",
   "c@email.com",
   "yuxialun123@gmail.com",
-  "yuxialun@foxmail.com"
+  "btctensai@gmail.com"
 ];
 
 type ServiceCardProps = {
@@ -105,7 +105,7 @@ export default function ServiceCard({
                 title="Remove"
                 type="button"
               >
-                x
+                X
               </button>
             </span>
           ))}

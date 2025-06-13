@@ -16,7 +16,7 @@ export default function Home() {
             <h2 className="text-xl font-semibold text-gray-800 mb-4">Create New Order</h2>
             <ServiceCard
               initialServiceName="OpenAI ChatGPT API"
-              initialAmount={1}
+              initialAmount={0.1}
               initialSigners={["yuxialun123@gmail.com"]}
               status="Pending Approval"
             />

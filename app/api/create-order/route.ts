@@ -153,7 +153,7 @@ export async function POST(req: NextRequest) {
         `;
 
         const result = await resend.emails.send({
-          from: "onboarding@resend.dev",
+          from: "info@web3luck.com",
           to: email,
           subject: "XRP Multi-Signature Order Approval Required",
           html: mailContent
