@@ -139,6 +139,7 @@ Twitter: [@BTCtensai](https://twitter.com/BTCtensai)
 
 ## 🌎 Links
 
+* Demo Video：https://youtu.be/dUOsBQrbwUc
 * [XRPL.org documentation](https://xrpl.org/)
 * [XRPL Testnet Explorer](https://testnet.xrpl.org/)
 * [Resend API](https://resend.com/)
